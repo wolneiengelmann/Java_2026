@@ -1,4 +1,4 @@
-package aplication;
+package application;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -6,7 +6,7 @@ import java.util.Scanner;
 import entities.Employee;
 
 public class Program {
-
+	// programa p ler infos Funcionario e atualiza salario )
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
